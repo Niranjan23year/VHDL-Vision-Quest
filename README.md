@@ -1,3 +1,5 @@
+-- Concepts Covered --
+
 1. OR gate
 2. AND gate
 3. NOT gate
