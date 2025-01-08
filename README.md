@@ -5,4 +5,4 @@
 5. NAND gate
 6. XOR gate
 7. XNOR gate
-8. 
+   
