@@ -7,4 +7,9 @@
 5. NAND gate
 6. XOR gate
 7. XNOR gate
+8. Full Adder
+9. Half Adder
+10. Full Subtracter
+11. Half subtracter
+12. 
    
