@@ -18,4 +18,5 @@
 16. Priority Encoder
 17. Parity Generator
 18. Parity Checker
+19. Comparator 8bit
    
